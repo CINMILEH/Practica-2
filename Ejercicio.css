@@ -1,0 +1,43 @@
+.tagGeneral {
+background:black;
+color: yellow;
+}
+
+.tagOne {
+color: red;
+text-align: left;
+font-weight: bold;
+margin-bottom: 50px;
+background-color: gold;
+font-size: xx-large;
+}
+.tagTwo {
+color: blueviolet;
+background: peachpuff;
+text-align: center;
+letter-spacing: 2px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.tagThree {
+color: white;
+margin-right: 600px; 
+background: green;
+}
+
+.tagFour {
+text-decoration-color: turquoise;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-left: 600px;
+background: yellow;
+color: red;
+}
+
+.tagFive {
+font-size: larger;
+text-decoration: salmon;
+text-align: justify;
+background: skyblue;
+margin-top: 40px;
+color: saddlebrown;
+}
